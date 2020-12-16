@@ -14,6 +14,7 @@ private const string TopicName = "topic_name";
 private const string SubscriptionName = "subcription_name";
 ```
 
+## Conceptual model
 <img src="Architecture.jpg" />
 
 
